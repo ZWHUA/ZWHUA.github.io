@@ -48,10 +48,11 @@ author:
     Hi, I'm Weihua...
 
     This is another paragraph.
+author:
   social:
-    twitter: qwtel
-    github:  qwtel
-    youtube: https://www.youtube.com/channel/UCu0PYX_kVANdmgIZ4bw6_kA
+    email:    mail@qwtel.com
+    rss:      https://domain.tld/feed.xml # make sure you provide an absolute URL
+    download: https://github.com/qwtel/hydejack/archive/v8.1.1.zip
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -297,8 +298,8 @@ plugins:
 social:
   name:                Weihua Zhou
 #   links:
-     - https://github.com/zwhua888
-     - https://twitter.com/<username>
+#     - https://github.com/zwhua888
+#    - https://twitter.com/<username>
     
 
 
