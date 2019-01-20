@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://zwhua.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -286,10 +286,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+  name:                Weihua Zhou
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+     - https://twitter.com/<username>
+    - https://github.com/zwhua888
 
 
 # Other Plugins
