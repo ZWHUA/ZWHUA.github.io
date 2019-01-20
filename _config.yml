@@ -288,8 +288,9 @@ plugins:
 # social:
   name:                Weihua Zhou
 #   links:
+     - https://github.com/zwhua888
      - https://twitter.com/<username>
-    - https://github.com/zwhua888
+    
 
 
 # Other Plugins
