@@ -29,7 +29,6 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Weihua ZHou".
   Personal Webite.
 
 # A list of keywords for your blog
@@ -42,7 +41,7 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
+  name:                <weihua> <lastname>
   email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
