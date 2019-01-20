@@ -285,7 +285,7 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+social:
   name:                Weihua Zhou
 #   links:
      - https://github.com/zwhua888
