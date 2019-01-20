@@ -43,6 +43,14 @@ logo:                  /assets/icons/my_photo.jpg
 author:
   name:                Weihua Zhou
   email:               wez@et.aau.dk
+  picture:  /assets/img/my_photo.jpg
+  about: |
+    Hi, I'm Weihua...
+
+    This is another paragraph.
+    social:
+    twitter: qwtel
+    github:  qwtel
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
